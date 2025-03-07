@@ -71,32 +71,47 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 
-Head value
+### Head Values
 ![image](https://github.com/user-attachments/assets/77c527c1-c491-4738-a244-dee93321c2b5)
 
-```
-Tail values
+
+### Tail Values
 ![image](https://github.com/user-attachments/assets/79f6d751-971f-4da1-b198-66b4926c5987)
-```
-```
-Compare Dataset 
+
+### Compare Dataset 
 ![image](https://github.com/user-attachments/assets/c3d1f4f0-a1a4-4f5a-8667-cfa6a62c43bb)
-```
-```
-Predication values of X and Y
+
+### Predication values of X and Y
 ![image](https://github.com/user-attachments/assets/d6ed6a22-53cc-4dd9-aa43-25253cb17a14)
-```
-```
-Training set
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+### Training set
 ![image](https://github.com/user-attachments/assets/4b1707fc-9c42-4053-bb22-b66076c24644)
-```
-```
-Testing Set
+
+### Testing Set
 ![image](https://github.com/user-attachments/assets/e161ca91-06ba-45c5-874e-558861b18988)
-```
-```
-MSE,MAE and RMSE
+
+### MSE,MAE and RMSE
 ![image](https://github.com/user-attachments/assets/6249d2c9-fb04-453f-91ab-dd4f4acf6f1a)
-```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
