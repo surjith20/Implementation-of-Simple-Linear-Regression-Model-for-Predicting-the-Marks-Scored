@@ -70,10 +70,10 @@ print("Root Mean Square Error = ",rmse)
 ```
 
 ## Output:
-```
+
 Head value
 ![image](https://github.com/user-attachments/assets/77c527c1-c491-4738-a244-dee93321c2b5)
-```
+
 ```
 Tail values
 ![image](https://github.com/user-attachments/assets/79f6d751-971f-4da1-b198-66b4926c5987)
